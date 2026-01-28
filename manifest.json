@@ -1,6 +1,6 @@
 {
-    "name": "Quinteto Poker",
-    "short_name": "Quinteto Poker",
+    "name": "poker",
+    "short_name": "poker",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
